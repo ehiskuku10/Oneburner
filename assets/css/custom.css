@@ -154,6 +154,20 @@ body {
   font-size: 13px;
 }
 
+@media(max-width: 1345px) {
+  .hero-text-lg {
+    font-size: 36px !important;
+  }
+
+  .use-cases .lg {
+    font-size: 32px !important;
+  }
+
+  .use-cases .sm {
+    font-size: 16px !important;
+  }
+}
+
 @media (max-width: 1215px) {
   .use-cases .row {
     padding: 0px 80px !important;
