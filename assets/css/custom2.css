@@ -1,0 +1,78 @@
+@media (max-width: 768px) {
+  .integrations {
+    margin-bottom: 90px !important;
+  }
+
+  .landing-section-1 {
+    margin-bottom: 116px !important;
+  }
+
+  .how {
+    padding: 85px 50px 162px 50px !important;
+  }
+
+  .how > div:nth-child(1) {
+    font-size: 25px;
+    margin-bottom: 181px;
+  }
+
+  .how-content {
+    flex-wrap: wrap;
+  }
+
+  .how-content > div:nth-child(1) {
+    width: 100% !important;
+    margin-bottom: 40px !important;
+  }
+
+  .how-content > div:nth-child(2) > ul {
+    padding: 0%;
+  }
+
+  .award {
+    width: 138px !important;
+    height: 138px !important;
+  }
+
+  .award-text > div:nth-child(1) {
+    font-size: 21px !important;
+  }
+
+  .award-box {
+    padding-right: 20px;
+  }
+
+  .award-case {
+    bottom: -10% !important;
+    width: 68%;
+    transform: translateX(5%);
+  }
+
+  .integration-text {
+    line-height: 35px !important;
+    font-size: 21px !important;
+  }
+
+  .regional > div:nth-child(1) {
+    font-size: 21px !important;
+  }
+
+  .regional > div:nth-child(2) {
+    width: 80% !important;
+  }
+
+  .regional > div:nth-child(3) {
+    width: 66%;
+  }
+
+  .testimonials > div:nth-child(1) {
+    width: 86% !important;
+    font-size: 17px !important;
+  }
+}
+
+@media (max-width: 500px) {
+  .award-text > div:nth-child(1) {
+    line-height: 17px !important;
+  }
+}
